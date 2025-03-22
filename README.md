@@ -9,8 +9,7 @@ This project is **open-source** and community-driven—anyone can contribute by 
 ✅ Networking & Transport (TCP/IP, UDP, ARP, etc.)  
 ✅ Security & Encryption (SSH, TLS, IPSec, etc.)  
 ✅ Email, File Sharing, & Remote Access  
-✅ Wireless, IoT, Industrial & Space
-
+✅ Wireless, IoT, Industrial & Space  
 ✅ Banking, Medical, and Even Weird, Experimental, And lost Stuff!  
 
 ### How to Use This Wiki  
