@@ -1,4 +1,4 @@
-   The **Ultimate** Protocol Megalist (UPL) by HNPF
+   The Ultimate Protocol Megalist (UPL) by HNPF
 
 
          ###  Internet & Web Protocols
