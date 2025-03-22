@@ -10,6 +10,7 @@ This project is **open-source** and community-driven—anyone can contribute by 
 ✅ Security & Encryption (SSH, TLS, IPSec, etc.)  
 ✅ Email, File Sharing, & Remote Access  
 ✅ Wireless, IoT, Industrial & Space
+
 ✅ Banking, Medical, and Even Weird, Experimental, And lost Stuff!  
 
 ### How to Use This Wiki  
