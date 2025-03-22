@@ -19,7 +19,7 @@ Check out the **[Protocol Wiki](https://github.com/hnpf/ultimate-networking-wiki
 Wanna add a protocol? Spot a mistake? **Fork this repo** and submit a pull request!
 
 ### Links  
--  **[The List Itself](UPM-PROTOCOLS.MD)**
+-  **[The List Itself](UPM-PROTOCOLS)**
 -  **[Full Protocol Wiki](https://github.com/hnpf/ultimate-networking-wiki)**  
 -  **[How to Contribute](contributing.md)**  
 -  **[Issues & Suggestions](https://github.com/hnpf/ultimate-networking-wiki/issues)**
