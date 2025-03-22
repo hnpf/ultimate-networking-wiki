@@ -1,7 +1,7 @@
    The **Ultimate** Protocol Megalist (UPL) by HNPF
 
 
-           Internet & Web Protocols
+         ###  Internet & Web Protocols
 
 
 
@@ -25,7 +25,7 @@
 
 
 
-           Network & Transport Protocols
+         ###  Network & Transport Protocols
 
 
 
@@ -55,7 +55,7 @@
 
 
 
-         A lot of Security & Encryption Protocols
+       ###  A lot of Security & Encryption Protocols
 
 
 
@@ -91,7 +91,7 @@
 
 
 
-           Email Protocols
+         ###  Email Protocols
 
 
 
@@ -111,7 +111,7 @@
 
 
 
-           File Sharing & Storage Protocols
+         ###  File Sharing & Storage Protocols
 
 
 
@@ -131,7 +131,7 @@
 
 
 
-           Routing & Internet Infrastructure Protocols
+         ###  Routing & Internet Infrastructure Protocols
 
 
 
@@ -151,7 +151,7 @@
 
 
 
-           Wireless & IoT Protocols
+         ###  Wireless & IoT Protocols
 
 
 
@@ -173,7 +173,7 @@
 
 
 
-            Industrial Protocols
+          ###  Industrial Protocols
 
 
 
@@ -191,7 +191,7 @@
 
 
 
-            Streaming & Multimedia Protocols
+          ###  Streaming & Multimedia Protocols
 
 
 
@@ -209,7 +209,7 @@
 
 
 
-           Virtualization & Tunneling Protocols
+         ###  Virtualization & Tunneling Protocols
 
 
 
@@ -231,7 +231,7 @@
 
 
 
-           VoIP & Telephony Protocols
+         ###  VoIP & Telephony Protocols
 
 
 
@@ -247,7 +247,7 @@
 
 
 
-   Other Network Protocols
+   	###  Other Network Protocols
 
 
 
@@ -264,8 +264,7 @@
     TR-069 (Technical Report 069) – remote device management
     
 
-    
-        More Advanced Network & Transport Protocols
+	###  More Advanced Network & Transport Protocols
 
 
 
@@ -279,7 +278,7 @@
 
 
 
-		Extra Security & Encryption Protocols
+	###  Extra Security & Encryption Protocols
 
 
 
@@ -295,7 +294,7 @@
 
 
 
-		More Email & Messaging Protocols
+	###  More Email & Messaging Protocols
 
 
 
@@ -309,7 +308,7 @@
 
 
 
-		More IoT & Wireless Protocols
+	###  More IoT & Wireless Protocols
 
 
 
@@ -323,7 +322,7 @@
 
 
 
-		Extra Industrial & Machine Protocols
+	###  Extra Industrial & Machine Protocols
 
 
 
@@ -339,7 +338,7 @@
 
 
 
-		Extra Streaming & Media Protocols
+	###  Extra Streaming & Media Protocols
 
 
 
@@ -359,7 +358,7 @@
 
 
 
-		Extra Niche & Weird Protocols
+	###  Extra Niche & Weird Protocols
 
 
 
@@ -375,7 +374,7 @@
     
     
     
-        Ancient & Forgotten Internet Protocols (Retro Stuff ??)
+        ###  Ancient & Forgotten Internet Protocols (Retro Stuff ??)
 
 
 
@@ -399,7 +398,7 @@
 
 
 
-		Extra Security & Authentication Protocols (Super Secure ??)
+	###  Extra Security & Authentication Protocols (Super Secure ??)
 
 
 
@@ -419,7 +418,7 @@
 
 
 
-		Deep Internet Infrastructure Protocols (Behind-the-Scenes Stuff ??)
+	###  Deep Internet Infrastructure Protocols (Behind-the-Scenes Stuff ??)
 
 
 
@@ -439,7 +438,7 @@
 
 
 
-		Extra Wireless & IoT Protocols (Future Tech & Smart Stuff ??)
+	###  Extra Wireless & IoT Protocols (Future Tech & Smart Stuff ??)
 
 
 
@@ -457,7 +456,7 @@
 
 
 
-		Extra File Transfer & Storage Protocols (Moving Data Around ??)
+	###  Extra File Transfer & Storage Protocols (Moving Data Around ??)
 
 
 
@@ -473,7 +472,7 @@
 
 
 
-		Extra Streaming & Multimedia Protocols (Audio/Video Magic ????)
+	###  Extra Streaming & Multimedia Protocols (Audio/Video Magic ????)
 
 
 
@@ -489,7 +488,7 @@
 
 
 
-		Super Niche & Special Use Protocols (Weird & Rare ??)
+	###  Super Niche & Special Use Protocols (Weird & Rare ??)
 
 
 
@@ -513,7 +512,7 @@
 
 
 
-		Theoretical & Futuristic Protocols (Sci-Fi Level ??)
+	###  Theoretical & Futuristic Protocols (Sci-Fi Level ??)
 
 
 
@@ -531,7 +530,7 @@
 
 
 
-               Experimental & Cutting-Edge Protocols (Still Evolving ??)
+        ###  Experimental & Cutting-Edge Protocols (Still Evolving ??)
 
 
 
@@ -551,7 +550,7 @@
 
 
 
-               Cybersecurity & Hacking-Related Protocols (For Ethical Use Only 😜)
+        ###  Cybersecurity & Hacking-Related Protocols (For Ethical Use Only 😜)
 
 
 
@@ -573,7 +572,7 @@
 
 
 
-               Space & Deep-Tech Protocols (Used Beyond Earth ??)
+        ###  Space & Deep-Tech Protocols (Used Beyond Earth ??)
 
 
 
@@ -591,7 +590,7 @@
 
 
 
-               Transportation & Vehicle Protocols (Planes, Trains & Automobiles ??)
+        ###  Transportation & Vehicle Protocols (Planes, Trains & Automobiles ??)
 
 
 
@@ -613,7 +612,7 @@
 
 
 
-               Banking, Payments & Financial Protocols (Money Moves ??)
+        ###  Banking, Payments & Financial Protocols (Money Moves ??)
 
 
 
@@ -631,7 +630,7 @@
 
 
 
-               Biomedical & Healthcare Protocols (Saving Lives ??)
+        ###  Biomedical & Healthcare Protocols (Saving Lives ??)
 
 
 
@@ -647,7 +646,7 @@
 
 
 
-               Weird & Fringe Protocols (Ultra Rare & Super Niche ??)
+        ###  Weird & Fringe Protocols (Ultra Rare & Super Niche ??)
 
 
 
@@ -667,11 +666,11 @@
 
 
 
-               🌎 The Internet Protocol Versions (IPV4, 5, 6 & Beyond)
+               ###   The Internet Protocol Versions (IPV4, 5, 6 & Beyond)
 
 
 
-              IPv4 (Internet Protocol Version 4) – THE CLASSIC
+        ###  IPv4 (Internet Protocol Version 4) – THE CLASSIC
 
 
 
@@ -689,7 +688,7 @@
 
 
 
-              IPv5 (INEXISTENT but kinda real ) – THE LOST ONE
+        ###  IPv5 (INEXISTENT but kinda real ) – THE LOST ONE
 
 
 
@@ -705,7 +704,7 @@
 
 
 
-              IPv6 (Internet Protocol Version 6) – THE FUTURE
+        ###  IPv6 (Internet Protocol Version 6) – THE FUTURE
 
 
 
@@ -723,7 +722,7 @@
 
 
 
-              IPv7, 8, 9+?? (Rumors & Research)
+        ###  IPv7, 8, 9+?? (Rumors & Research)
 
 
 
@@ -737,12 +736,12 @@
 
 
 
-               Related Internet Addressing Protocols & Concepts
+        ###  Related Internet Addressing Protocols & Concepts
 
 
 
 
-              CIDR (Classless Inter-Domain Routing) – FIXED THE OLD SYSTEM
+        ###  CIDR (Classless Inter-Domain Routing) – FIXED THE OLD SYSTEM
 
 
 
@@ -754,7 +753,7 @@
 
 
 
-              NAT (Network Address Translation) – HIDING PRIVATE IPS
+        ###  NAT (Network Address Translation) – HIDING PRIVATE IPS
 
 
 
@@ -768,7 +767,7 @@
 
 
 
-              CGNAT (Carrier-Grade NAT) – THE ISP NIGHTMARE
+        ###  CGNAT (Carrier-Grade NAT) – THE ISP NIGHTMARE
 
 
 
@@ -780,7 +779,7 @@
 
 
 
-              IPX/SPX (Novell’s Old IP Alternative) – DEAD BUT COOL
+        ###  IPX/SPX (Novell’s Old IP Alternative) – DEAD BUT COOL
 
 
 
@@ -792,7 +791,7 @@
 
 
 
-              DECnet (Digital’s Internet Rival) – ALSO DEAD
+        ###  DECnet (Digital’s Internet Rival) – ALSO DEAD
 
 
 
@@ -804,7 +803,7 @@
 
 
 
-              AppleTalk (Apple’s Old Networking Protocol) – FORGOTTEN
+        ###  AppleTalk (Apple’s Old Networking Protocol) – FORGOTTEN
 
 
 
@@ -816,7 +815,7 @@
 
 
 
-              IPvFoo (Fun Fact Protocol :))
+        ###  IPvFoo (Fun Fact Protocol :))
 
 
 
