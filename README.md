@@ -13,7 +13,7 @@ This project is **open-source** and community-driven—anyone can contribute by 
 ✅ Banking, Medical, and Even Weird, Experimental, And lost Stuff!  
 
 ### How to Use This Wiki  
-Check out the **[Protocol Wiki](https://github.com/hnpf/ultimate-networking-wiki)** for a full, structured breakdown of protocols with categories, explanations, and fun facts.  
+Check out the **[Protocol Wiki](https://github.com/hnpf/ultimate-networking-wiki/wiki)** for a full, structured breakdown of protocols with categories, explanations, and fun facts.  
 
 ### Contribute!  
 Wanna add a protocol? Spot a mistake? **Fork this repo** and submit a pull request!
