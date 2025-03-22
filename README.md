@@ -22,6 +22,7 @@ Wanna add a protocol? Spot a mistake? **Fork this repo** and submit a pull reque
 -  **[The List Itself](UPM-PROTOCOLS.MD)**
 -  **[Full Protocol Wiki](https://github.com/hnpf/ultimate-networking-wiki)**  
 -  **[How to Contribute](contributing.md)**  
--  **[Issues & Suggestions](https://github.com/hnpf/ultimate-networking-wiki/issues)**  
+-  **[Issues & Suggestions](https://github.com/hnpf/ultimate-networking-wiki/issues)**
+-  **[Issue Template](https://github.com/hnpf/ultimate-networking-wiki/blob/main/ISSUE_TEMPLATE.md)**
 
 ---  
