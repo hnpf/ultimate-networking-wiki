@@ -1,18 +1,20 @@
-## Bug Report
+# Issue Template
 
-**Description**  
-(Provide a clear and concise description of the bug.)
+## Issue Reporting
 
-**Steps to Reproduce**  
-1. Step 1  
-2. Step 2  
+**Description**
+(Provide a clear and concise description of the problem.)
+
+**Steps to Reproduce**
+1. Step 1
+2. Step 2
 3. ...
 
-**Expected behavior**  
-(What should happen?)
+**Expected behavior**
+(What should be expected?)
 
-**Actual behavior**  
-(What happened?)
+**Actual behavior**
+(What's actually shown?)
 
-**Additional context**  
+**Additional context**
 (Add any other context or screenshots.)
